@@ -20,10 +20,10 @@ I enjoy building software that combines problem-solving, automation, and creativ
 ## 🛠️ Technologies
 
 ### Languages
--Java
--Python
--cpp
--javascript(google appsScript)
+- Java
+- Python
+- cpp
+- javascript (Google Apps-script)
 
 ### Tools
 -Git
