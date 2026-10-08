@@ -26,9 +26,9 @@ I enjoy building software that combines problem-solving, automation, and creativ
 - javascript (Google Apps-script)
 
 ### Tools
--Git
--vscode
--linux
+- Git
+- VScode
+- linux
 ---
 
 ## 📂 Featured Projects
