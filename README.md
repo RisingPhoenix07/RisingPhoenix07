@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello!+I'm+Rezuanul+Hoque+Siddike+Oishworjo;;%F0%9F%94%A5+Welcome+to+my+GitHub!;Trying+to+have+fun+and+learn+a+few+things+along+the+way" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=2000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hello!+I'm+Rezuanul+Hoque+Siddike+Oishworjo;%F0%9F%94%A5+Welcome+to+my+GitHub!;Trying+to+have+fun+and+learn+a+few+things+along+the+way" alt="Typing Header" />
   </a>
 </p>
-
 
 # Hi, I'm Rezuanul Hoque 👋
 
