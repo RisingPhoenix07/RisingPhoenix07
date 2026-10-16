@@ -78,7 +78,13 @@ Currently exploring:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RisingPhoenix07&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🐍 Contribution Snake Game
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RisingPhoenix07/RisingPhoenix07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RisingPhoenix07/RisingPhoenix07/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RisingPhoenix07/RisingPhoenix07/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📫 Connect With Me
 
