@@ -73,7 +73,11 @@ Currently exploring:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RisingPhoenix07&theme=tokyonight&hide_border=true" />
 </p>
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+I'm+RisingPhoenix07! 👋;Full-Stack+Developer;Creator+of+Rising+Phoenix+Habit+Tracker" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 📫 Connect With Me
 
