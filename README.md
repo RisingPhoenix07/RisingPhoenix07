@@ -33,6 +33,12 @@ I enjoy building software that combines problem-solving, automation, and creativ
 
 ## 📂 Featured Projects
 
+### 🐣 Rising Phoenix Habit Tracker
+
+A full-stack, personal mastery dashboard built to replace complex spreadsheet productivity systems with a sleek web interface.
+
+👉 **[View Habit Tracker Repository](https://github.com/RisingPhoenix07/rising-phoenix-habit-tracker)**
+
 ### 🚀 Galactic Archive
 A space exploration web application that integrates astronomy-related data with a modern web interface.
 
