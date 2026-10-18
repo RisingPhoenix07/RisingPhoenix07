@@ -51,13 +51,20 @@ A full-stack, personal mastery dashboard built to replace complex spreadsheet pr
 👉 **[View Habit Tracker Repository](https://github.com/RisingPhoenix07/rising-phoenix-habit-tracker)**
 
 ### 🚀 Galactic Archive
-A space exploration web application that integrates astronomy-related data with a modern web interface.
+A space exploration web application based game that integrates astronomy-related data with a modern web interface.
+
+👉 **[View Habit Tracker Repository](https://github.com/RisingPhoenix07/rising-phoenix-habit-tracker)**
+
 
 ### 📊 Daily Checklist Automation
 Google Sheets automation project featuring dynamic charts and habit tracking.
 
+👉 **[View Habit Tracker Repository](https://github.com/RisingPhoenix07/rising-phoenix-habit-tracker)**
+
 ### 🐍 Snake Game Java
 A classic Snake game built using Java as part of my programming journey.
+
+👉 **[View Habit Tracker Repository](https://github.com/RisingPhoenix07/rising-phoenix-habit-tracker)**
 
 ---
 
